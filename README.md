@@ -1,4 +1,4 @@
 nanochromatic.github.io
 =======================
 
-Front-end website on the projects I do.
+Front-end website for the projects I do.
